@@ -1,6 +1,6 @@
-# Datos de Relación de Ubigeos del Perú
+# Relación de Ubigeos del Perú
 
-> Repositorio con datos de relación de ubigeos (departamentos, provincias y distritos) del Perú.
+> Datos JSON y SQL sobre departamentos, provincias y distritos del Perú.
 
 ## Directorio
 

@@ -65,4 +65,6 @@ var trujillo = provincias[3789]
 
 ## Licencia
 
-MIT License
+MIT license
+
+© 2015 [José Luis Quintana](http://quintana.io)
